@@ -1,0 +1,1 @@
+# write your slot_booking settings

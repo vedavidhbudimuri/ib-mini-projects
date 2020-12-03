@@ -1,0 +1,1 @@
+# write your covid_dashboard settings
